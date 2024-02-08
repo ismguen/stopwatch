@@ -16,7 +16,7 @@ A simple implementation of a stopwatch application using HTML, CSS, and JavaScri
 
 ## Preview
 
-![Stopwatch Preview](![image](https://github.com/ismguen/stopwatch/assets/130120780/9987e5a0-2ce9-4405-af7c-3c07874fff25))
+![Stopwatch Preview]![image](https://github.com/ismguen/stopwatch/assets/130120780/9987e5a0-2ce9-4405-af7c-3c07874fff25)
 
 ## Link to Website
 
